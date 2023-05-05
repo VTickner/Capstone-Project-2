@@ -6,7 +6,7 @@ This project was set as part of [Angela Yu's "The Complete 2023 Web Development 
 
 - [Project Description](#project-description)
   - [Example](#example)
-  - [Deliverablea](#deliverables)
+  - [Deliverables](#deliverables)
   - [Features](#features)
   - [Technical Requirements](#technical-requirements)
   - [Process](#process)
